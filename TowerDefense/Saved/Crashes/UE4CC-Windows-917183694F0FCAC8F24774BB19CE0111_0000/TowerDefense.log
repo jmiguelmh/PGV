@@ -1,0 +1,1500 @@
+﻿Log file open, 12/13/22 16:39:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TowerDefense
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177878
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700F, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=jmiguelmh0601 -epicuserid=7aebabdcd4444cbebdd21a798d14c46d -epiclocale=es -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.13-15.39.01:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:968][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.13-15.39.01:984][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.13-15.39.01:984][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.13-15.39.01:984][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.13-15.39.01:984][  0]LogHAL: Display: Platform has ~ 16 GB [16984227840 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.13-15.39.01:984][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.13-15.39.01:985][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.13-15.39.01:986][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.13-15.39.01:986][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.13-15.39.01:986][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.13-15.39.01:986][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.39.01:986][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Config/Windows/Editor.ini]
+[2022.12.13-15.39.01:986][  0]LogInit: Computer: DESKTOP-BDPUO0A
+[2022.12.13-15.39.01:986][  0]LogInit: User: jmigu
+[2022.12.13-15.39.01:986][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.12.13-15.39.01:986][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.13-15.39.01:986][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.13-15.39.01:986][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.13-15.39.01:986][  0]LogMemory: Process Physical Memory: 150.13 MB used, 150.13 MB peak
+[2022.12.13-15.39.01:986][  0]LogMemory: Process Virtual Memory: 134.80 MB used, 134.80 MB peak
+[2022.12.13-15.39.01:986][  0]LogMemory: Physical Memory: 11225.37 MB used,  4972.05 MB free, 16197.42 MB total
+[2022.12.13-15.39.01:986][  0]LogMemory: Virtual Memory: 134184392.00 MB used,  33338.71 MB free, 134217728.00 MB total
+[2022.12.13-15.39.01:989][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.13-15.39.02:017][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.13-15.39.02:017][  0]LogInit: Using OS detected language (es-ES).
+[2022.12.13-15.39.02:017][  0]LogInit: Using OS detected locale (es-ES).
+[2022.12.13-15.39.02:020][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2022.12.13-15.39.02:038][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.13-15.39.02:058][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.13-15.39.02:066][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.13-15.39.02:066][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.13-15.39.02:131][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.13-15.39.02:136][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.13-15.39.02:136][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.13-15.39.02:136][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.13-15.39.02:136][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.13-15.39.02:209][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.12.13-15.39.02:209][  0]LogD3D11RHI:       8032/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:       0/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     DeviceId    : 2488
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     SubSysId    : 861719da
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     DedicatedVideoMemory : 8422162432 bytes
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     SharedSystemMemory : 8492113920 bytes
+[2022.12.13-15.39.02:211][  0]LogD3D11RHI:     AdapterLuid : 0 71647
+[2022.12.13-15.39.02:217][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.13-15.39.02:217][  0]LogD3D11RHI:     GPU DeviceId: 0x2488 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.13-15.39.02:217][  0]LogWindows: EnumDisplayDevices:
+[2022.12.13-15.39.02:217][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.12.13-15.39.02:218][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.12.13-15.39.02:218][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.12.13-15.39.02:218][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.12.13-15.39.02:218][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2022.12.13-15.39.02:218][  0]LogRHI: Texture pool is 5622 MB (70% of 8032 MB)
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     DeviceId    : 2488
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     SubSysId    : 861719da
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     DedicatedVideoMemory : 8422162432 bytes
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     SharedSystemMemory : 8492113920 bytes
+[2022.12.13-15.39.02:218][  0]LogD3D11RHI:     AdapterLuid : 0 71647
+[2022.12.13-15.39.02:257][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.13-15.39.02:257][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.13-15.39.02:257][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.13-15.39.02:281][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.12.13-15.39.02:298][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.13-15.39.02:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.13-15.39.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.13-15.39.02:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.13-15.39.02:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.13-15.39.02:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.13-15.39.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.13-15.39.02:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.13-15.39.02:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.13-15.39.02:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.13-15.39.02:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.13-15.39.02:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.13-15.39.02:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.13-15.39.02:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.13-15.39.02:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.13-15.39.02:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.13-15.39.02:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.13-15.39.02:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.13-15.39.02:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.13-15.39.02:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.13-15.39.02:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.13-15.39.02:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.13-15.39.02:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.13-15.39.02:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.13-15.39.02:695][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.13-15.39.02:703][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.13-15.39.02:732][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.13-15.39.02:755][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.13-15.39.02:755][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Intermediate/Shaders/WorkingDirectory/16212/).
+[2022.12.13-15.39.02:755][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jmigu/AppData/Local/Temp/UnrealShaderWorkingDir/D84571C543E67223A07B7E82EBA505BC/'.
+[2022.12.13-15.39.02:755][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.13-15.39.02:755][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.13-15.39.02:755][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.13-15.39.03:259][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.13-15.39.03:301][  0]LogDerivedDataCache: Loaded boot cache 0.04s 96MB C:/Users/jmigu/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.13-15.39.03:301][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jmigu/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.13-15.39.03:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.13-15.39.03:301][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.13-15.39.03:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.13-15.39.03:301][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.13-15.39.03:314][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.13-15.39.03:314][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.13-15.39.03:314][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.13-15.39.03:319][  0]LogDerivedDataCache: Speed tests for C:/Users/jmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.13-15.39.03:319][  0]LogDerivedDataCache: Display: Performance to C:/Users/jmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=365.52MBs, RandomWriteSpeed=360.96MBs. Assigned SpeedClass 'Local'
+[2022.12.13-15.39.03:320][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.13-15.39.03:320][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.13-15.39.03:320][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.13-15.39.03:347][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.13-15.39.03:347][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.13-15.39.03:363][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2022.12.13-15.39.03:601][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.13-15.39.03:601][  0]LogInit: Active device profile: [000001E164C6CB00][000001E162903740 49] Windows
+[2022.12.13-15.39.03:601][  0]LogInit: Profiles: [000001E164C6CB00][000001E162903740 49] Windows, [000001E164C3E100][000001E1627F78C0 49] WindowsNoEditor, [000001E164C6D900][000001E1627FBA40 49] WindowsServer, [000001E164C3EE00][000001E1629C7BC0 49] WindowsClient, [000001E164C6FC00][000001E1629CA1C0 49] IOS, [000001E164C3CF00][000001E1629CE340 49] iPadAir, [000001E164C6FE00][000001E1629D24C0 49] iPadAir2, [000001E164BE4D00][000001E1629DC700 49] IPadPro, [000001E164BE4E00][000001E162906740 49] iPadAir3, [000001E164C3FB00][000001E1629E6880 49] iPadAir4, [000001E164BE7700][000001E1629EA9C0 49] iPadMini2, [000001E164C3F100][000001E1629F2B40 49] iPadMini3, [000001E164BE7900][000001E1629F6CC0 49] iPadMini4, [000001E164C3F500][000001E1629FAE40 49] iPadMini5, [000001E164BF8600][000001E163F1F100 49] iPhone6, [000001E164BF8700][000001E163F1B140 49] iPodTouch6, [000001E164C6E600][000001E163F27400 49] iPhone7, [000001E164C6E800][000001E163F23440 49] iPodTouch7, [000001E164BF8100][000001E163F2B5C0 49] iPhone5S, [000001E164BE4700][000001E163F2F740 49] iPhone6Plus, [000001E164BFA500][000001E163F338C0 49] iPhone6S, [000001E164BE5400][000001E163F37A40 49] iPhone6SPlus, [000001E164BFBB00][000001E163F3BBC0 49] iPhone7Plus, [000001E164BE7600][000001E163F3E1C0 49] iPhoneSE, [000001E164C6EC00][000001E163F42340 49] iPhone8, [000001E164BE4600][000001E163F464C0 49] iPhone8Plus, [000001E164C6E100][000001E163F4A640 49] iPhoneX, [000001E164BE6900][000001E1629EE780 49] iPhoneXS, [000001E164C6FD00][000001E163F4E8C0 49] iPhoneXSMax, [000001E164BE6E00][000001E163F52A00 49] iPhoneXR, [000001E164C6FF00][000001E163F56B40 49] iPhone11, [000001E164BE5F00][000001E163F5ECC0 49] iPhone11Pro, [000001E164C6C600][000001E163F62E40 49] iPhone11ProMax, [000001E164BE6000][000001E163F66FC0 49] iPhoneSE2, [000001E164C6FA00][000001E163F6B140 49] iPhone12Mini, [000001E164BE6700][000001E163F6F2C0 49] iPhone12, [000001E164C6EA00][000001E163F73440 49] iPhone12Pro, [000001E164BE4500][000001E163F775C0 49] iPhone12ProMax, [000001E164C6F900][000001E163F7B740 49] iPadPro105, [000001E164BE5800][000001E163F7F8C0 49] iPadPro129, [000001E164C6CC00][000001E163F83A40 49] iPadPro97, [000001E164BE6400][000001E163F87BC0 49] iPadPro2_129, [000001E164C6C800][000001E163F8A1C0 49] iPad5, [000001E164BE4400][000001E163B90340 49] iPad6, [000001E164C6DB00][000001E163B944C0 49] iPad7, [000001E164BE7500][000001E163B98640 49] iPad8, [000001E164C6DF00][000001E163B9C7C0 49] iPadPro11, [000001E164BE5A00][000001E163BA0940 49] iPadPro2_11, [000001E164C6E500][000001E163F5AA80 49] iPadPro3_129, [000001E164BE6200][000001E163BA4BC0 49] iPadPro4_129, [000001E164C6D600][000001E163BA8D00 49] AppleTV, [000001E164BE7D00][000001E163BB0E80 49] AppleTV4K, [000001E164C6DA00][000001E163BB5000 49] TVOS, [000001E164BE4A00][000001E163BB9180 49] Mac, [000001E164C6E400][000001E163BBD300 49] MacClient, [000001E164BE6C00][000001E163BC1480 49] MacNoEditor, [000001E164C6F500][000001E163BC5600 49] MacServer, [000001E164BE6300][000001E163BC9780 49] Linux, [000001E164C6C300][000001E163BCD900 49] LinuxAArch64, [000001E164BE6100][000001E163BD1A80 49] LinuxNoEditor, [000001E164C6E300][000001E163BD5C00 49] LinuxAArch64NoEditor, [000001E164BE7C00][000001E163BD8200 49] LinuxClient, [000001E164C6CF00][000001E163BDC380 49] LinuxAArch64Client, [000001E164BE5200][000001E163BE0500 49] LinuxServer, [000001E164C6F000][000001E163BE4680 49] LinuxAArch64Server, [000001E164BE5600][000001E163BE8800 49] Android, [000001E164C6D200][000001E163BEC980 49] Android_Low, [000001E164BE7E00][000001E163BF0B00 49] Android_Mid, [000001E164C6C100][000001E163BACC40 49] Android_High, [000001E164BE6A00][000001E163BF4D80 49] Android_Default, [000001E164C6D300][000001E163BF8EC0 49] Android_Adreno4xx, [000001E164C3E300][000001E163C01040 49] Android_Adreno5xx_Low, [000001E164BF9C00][000001E163C051C0 49] Android_Adreno5xx, [000001E164C3FE00][000001E163C09340 49] Android_Adreno6xx, [000001E164BFA700][000001E1652E14C0 49] Android_Adreno6xx_Vulkan, [000001E164C3F600][000001E1652E5640 49] Android_Mali_T6xx, [000001E164BF8F00][000001E1652E97C0 49] Android_Mali_T7xx, [000001E164C3DB00][000001E1652ED940 49] Android_Mali_T8xx, [000001E164BF9F00][000001E1652F1AC0 49] Android_Mali_G71, [000001E164C3EC00][000001E1652F40C0 49] Android_Mali_G72, [000001E164BFAF00][000001E1652F8240 49] Android_Mali_G72_Vulkan, [000001E164C3E500][000001E1652FC3C0 49] Android_Mali_G76, [000001E164BFA200][000001E165300540 49] Android_Mali_G76_Vulkan, [000001E164C3CE00][000001E1653046C0 49] Android_Mali_G77, [000001E164BF9400][000001E165308840 49] Android_Mali_G77_Vulkan, [000001E164C3F700][000001E16530C9C0 49] Android_Mali_G78, [000001E164BF9300][000001E165310B40 49] Android_Mali_G78_Vulkan, [000001E164C3D500][000001E165314CC0 49] Android_Mali_G710, [000001E164BFBD00][000001E163BFCE00 49] Android_Mali_G710_Vulkan, [000001E164C3C700][000001E165318F40 49] Android_Vulkan_SM5, [000001E164BF9B00][000001E16531D080 49] Android_PowerVR_G6xxx, [000001E164C3CA00][000001E1653211C0 49] Android_PowerVR_GT7xxx, [000001E164BF8200][000001E165329340 49] Android_PowerVR_GE8xxx, [000001E164C3F800][000001E16532D4C0 49] Android_PowerVR_GM9xxx, [000001E164BF8A00][000001E165331640 49] Android_PowerVR_GM9xxx_Vulkan, [000001E164C3D000][000001E1653357C0 49] Android_TegraK1, [000001E164BF9700][000001E165339940 49] Android_Unknown_Vulkan, [000001E164C3D800][000001E16533DAC0 49] Lumin, [000001E164BFBC00][000001E1653400C0 49] Lumin_Desktop, [000001E164C3D600][000001E165344240 49] HoloLens, 
+[2022.12.13-15.39.03:695][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.13-15.39.03:695][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.13-15.39.03:695][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.13-15.39.03:695][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.13-15.39.03:695][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.13-15.39.03:706][  0]LogNetVersion: TowerDefense 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1275843872)
+[2022.12.13-15.39.03:983][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.13-15.39.04:059][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.13-15.39.04:065][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.13-15.39.04:065][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.13-15.39.04:065][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.13-15.39.04:258][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 00DA1FD84E6418F367D2E8B7A37C833F | Instance: C9B703114A5673C8DD9849BE607A3086 (DESKTOP-BDPUO0A-16212).
+[2022.12.13-15.39.04:330][  0]LogPython: Using Python 3.7.7
+[2022.12.13-15.39.04:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.13-15.39.04:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.13-15.39.04:978][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.13-15.39.05:009][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.13-15.39.05:018][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.13-15.39.05:018][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.13-15.39.05:115][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.13-15.39.05:115][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.13-15.39.05:118][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.13-15.39.05:121][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.13-15.39.05:128][  0]LogUProjectInfo: Found projects:
+[2022.12.13-15.39.05:134][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.13-15.39.05:141][  0]LogCollectionManager: Loaded 0 collections in 0.001426 seconds
+[2022.12.13-15.39.05:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Collections/' took 0.00s
+[2022.12.13-15.39.05:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/Developers/jmigu/Collections/' took 0.00s
+[2022.12.13-15.39.05:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/Collections/' took 0.00s
+[2022.12.13-15.39.05:160][  0]LogOcInput: OculusInput pre-init called
+[2022.12.13-15.39.05:347][  0]LogEngine: Initializing Engine...
+[2022.12.13-15.39.05:389][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.13-15.39.05:389][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.13-15.39.05:389][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.13-15.39.05:390][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.13-15.39.05:485][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.13-15.39.05:493][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.13-15.39.05:494][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.13-15.39.05:497][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.13-15.39.05:498][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.13-15.39.05:498][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.13-15.39.05:498][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.13-15.39.05:498][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.13-15.39.05:498][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.13-15.39.05:499][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.13-15.39.05:499][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.13-15.39.05:499][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.13-15.39.05:499][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.13-15.39.05:511][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.13-15.39.05:511][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.13-15.39.05:531][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.12.13-15.39.05:531][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.13-15.39.05:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.13-15.39.05:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.13-15.39.05:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.13-15.39.05:533][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.13-15.39.05:533][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.13-15.39.05:534][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.13-15.39.05:534][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.13-15.39.05:534][  0]LogInit: FAudioDevice initialized.
+[2022.12.13-15.39.05:534][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.13-15.39.05:534][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.13-15.39.05:573][  0]LogDerivedDataCache: Saved boot cache 0.04s 96MB C:/Users/jmigu/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.13-15.39.05:573][  0]LogInit: Texture streaming: Enabled
+[2022.12.13-15.39.05:582][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.13-15.39.05:586][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.13-15.39.05:586][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.13-15.39.05:587][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.13-15.39.05:599][  0]LogInit: Transaction tracking system initialized
+[2022.12.13-15.39.05:615][  0]BlueprintLog: New page: Cargar el editor
+[2022.12.13-15.39.05:669][  0]LocalizationService: Localization service is disabled
+[2022.12.13-15.39.05:689][  0]TimingProfiler: Initialize
+[2022.12.13-15.39.05:689][  0]TimingProfiler: OnSessionChanged
+[2022.12.13-15.39.05:689][  0]LoadingProfiler: Initialize
+[2022.12.13-15.39.05:689][  0]LoadingProfiler: OnSessionChanged
+[2022.12.13-15.39.05:689][  0]NetworkingProfiler: Initialize
+[2022.12.13-15.39.05:689][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.13-15.39.05:689][  0]MemoryProfiler: Initialize
+[2022.12.13-15.39.05:689][  0]MemoryProfiler: OnSessionChanged
+[2022.12.13-15.39.05:813][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.13-15.39.05:814][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.13-15.39.05:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/' took 0.00s
+[2022.12.13-15.39.06:089][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.13-15.39.06:091][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.13-15.39.06:091][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.049
+[2022.12.13-15.39.06:094][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.13-15.39.06:094][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.13-15.39.06:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.06:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.13-15.39.06:097][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.12.13-15.39.06:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.12.13-15.39.06:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.12.13-15.39.06:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.12.13-15.39.06:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.12.13-15.39.06:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.12.13-15.39.06:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.12.13-15.39.06:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.12.13-15.39.06:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.12.13-15.39.06:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.12.13-15.39.06:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.12.13-15.39.06:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.12.13-15.39.06:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.12.13-15.39.06:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.12.13-15.39.06:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.12.13-15.39.06:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.12.13-15.39.06:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.12.13-15.39.06:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.12.13-15.39.06:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Fire01.uasset"
+[2022.12.13-15.39.06:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.12.13-15.39.06:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.12.13-15.39.06:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.12.13-15.39.06:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Light01.uasset"
+[2022.12.13-15.39.06:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.12.13-15.39.06:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Light02.uasset"
+[2022.12.13-15.39.06:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.12.13-15.39.06:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.12.13-15.39.06:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.12.13-15.39.06:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.12.13-15.39.06:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.12.13-15.39.06:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.12.13-15.39.06:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.12.13-15.39.06:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.12.13-15.39.06:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.12.13-15.39.06:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Steam01.uasset"
+[2022.12.13-15.39.06:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.12.13-15.39.06:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.12.13-15.39.06:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.12.13-15.39.06:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.12.13-15.39.06:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.12.13-15.39.06:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.12.13-15.39.06:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.12.13-15.39.06:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.12.13-15.39.06:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.12.13-15.39.06:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.12.13-15.39.06:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.12.13-15.39.06:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.12.13-15.39.06:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.12.13-15.39.06:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.12.13-15.39.06:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.12.13-15.39.06:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.12.13-15.39.06:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.12.13-15.39.06:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.12.13-15.39.06:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.12.13-15.39.06:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.12.13-15.39.06:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.12.13-15.39.06:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.12.13-15.39.06:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/StarterMap.umap"
+[2022.12.13-15.39.06:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.12.13-15.39.06:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.12.13-15.39.06:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.12.13-15.39.06:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.12.13-15.39.06:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.12.13-15.39.06:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.12.13-15.39.06:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.12.13-15.39.06:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.12.13-15.39.06:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.12.13-15.39.06:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.12.13-15.39.06:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.12.13-15.39.06:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.12.13-15.39.06:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.12.13-15.39.06:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.12.13-15.39.06:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.12.13-15.39.06:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.12.13-15.39.06:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.12.13-15.39.06:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.12.13-15.39.06:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.12.13-15.39.06:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.12.13-15.39.06:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.12.13-15.39.06:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.12.13-15.39.06:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.12.13-15.39.06:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.12.13-15.39.06:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.12.13-15.39.06:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.12.13-15.39.06:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.12.13-15.39.06:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.12.13-15.39.06:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.12.13-15.39.06:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.12.13-15.39.06:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.12.13-15.39.06:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.12.13-15.39.06:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.12.13-15.39.06:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.12.13-15.39.06:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.12.13-15.39.06:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.12.13-15.39.06:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.12.13-15.39.06:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.12.13-15.39.06:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.12.13-15.39.06:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.12.13-15.39.06:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.12.13-15.39.06:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.12.13-15.39.06:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.12.13-15.39.06:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.12.13-15.39.06:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.12.13-15.39.06:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.12.13-15.39.06:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.12.13-15.39.06:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.12.13-15.39.06:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.12.13-15.39.06:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.12.13-15.39.06:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.12.13-15.39.06:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.12.13-15.39.06:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.12.13-15.39.06:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.12.13-15.39.06:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.12.13-15.39.06:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.12.13-15.39.06:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.12.13-15.39.06:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.12.13-15.39.06:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.12.13-15.39.06:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.12.13-15.39.06:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.12.13-15.39.06:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.12.13-15.39.06:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.12.13-15.39.06:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.12.13-15.39.06:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.12.13-15.39.06:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Door.uasset"
+[2022.12.13-15.39.06:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.12.13-15.39.06:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.12.13-15.39.06:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.12.13-15.39.06:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.12.13-15.39.06:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.12.13-15.39.06:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.12.13-15.39.06:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.12.13-15.39.06:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.12.13-15.39.06:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.12.13-15.39.06:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.12.13-15.39.06:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.12.13-15.39.06:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.12.13-15.39.06:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.12.13-15.39.06:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.12.13-15.39.06:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.12.13-15.39.06:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.12.13-15.39.06:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.12.13-15.39.06:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.12.13-15.39.06:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.12.13-15.39.06:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.12.13-15.39.06:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.12.13-15.39.06:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.12.13-15.39.06:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.12.13-15.39.06:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.12.13-15.39.06:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.12.13-15.39.06:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.12.13-15.39.06:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.12.13-15.39.06:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.12.13-15.39.06:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.12.13-15.39.06:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.12.13-15.39.06:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.12.13-15.39.06:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.12.13-15.39.06:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.12.13-15.39.06:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.12.13-15.39.06:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.12.13-15.39.06:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.12.13-15.39.06:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.12.13-15.39.06:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.12.13-15.39.06:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.12.13-15.39.06:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.12.13-15.39.06:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.12.13-15.39.06:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.12.13-15.39.06:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.12.13-15.39.06:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.12.13-15.39.06:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.12.13-15.39.06:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.12.13-15.39.06:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.12.13-15.39.06:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.12.13-15.39.06:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.12.13-15.39.06:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.12.13-15.39.06:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.12.13-15.39.06:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.12.13-15.39.06:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.12.13-15.39.06:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.12.13-15.39.06:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.12.13-15.39.06:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.12.13-15.39.06:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.12.13-15.39.06:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.12.13-15.39.06:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.12.13-15.39.06:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.12.13-15.39.06:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.12.13-15.39.06:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.12.13-15.39.06:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.12.13-15.39.06:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.12.13-15.39.06:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.12.13-15.39.06:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.12.13-15.39.07:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.12.13-15.39.07:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.12.13-15.39.07:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.12.13-15.39.07:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.12.13-15.39.07:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.12.13-15.39.07:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.12.13-15.39.07:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.12.13-15.39.07:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.12.13-15.39.07:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.12.13-15.39.07:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.12.13-15.39.07:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.12.13-15.39.07:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.12.13-15.39.07:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.12.13-15.39.07:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.12.13-15.39.07:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.12.13-15.39.07:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.12.13-15.39.07:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.12.13-15.39.07:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.12.13-15.39.07:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.12.13-15.39.07:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.12.13-15.39.07:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.12.13-15.39.07:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.12.13-15.39.07:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.12.13-15.39.07:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.12.13-15.39.07:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.12.13-15.39.07:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.12.13-15.39.07:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.12.13-15.39.07:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.12.13-15.39.07:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.12.13-15.39.07:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.12.13-15.39.07:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.12.13-15.39.07:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.12.13-15.39.07:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.12.13-15.39.07:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.12.13-15.39.07:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.12.13-15.39.07:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.12.13-15.39.07:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.12.13-15.39.07:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.12.13-15.39.07:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.12.13-15.39.07:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.12.13-15.39.07:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.12.13-15.39.07:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.12.13-15.39.07:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.12.13-15.39.07:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.12.13-15.39.07:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.12.13-15.39.07:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.12.13-15.39.07:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.12.13-15.39.07:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.12.13-15.39.07:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.12.13-15.39.07:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.12.13-15.39.07:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.12.13-15.39.07:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.12.13-15.39.07:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.12.13-15.39.07:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.12.13-15.39.07:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.12.13-15.39.07:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.12.13-15.39.07:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.12.13-15.39.07:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.12.13-15.39.07:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.12.13-15.39.07:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.12.13-15.39.07:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.12.13-15.39.07:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.12.13-15.39.07:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.12.13-15.39.07:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.12.13-15.39.07:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.12.13-15.39.07:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.12.13-15.39.07:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.12.13-15.39.07:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.12.13-15.39.07:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.12.13-15.39.07:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.12.13-15.39.07:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.12.13-15.39.07:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.12.13-15.39.07:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.12.13-15.39.07:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.12.13-15.39.07:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.12.13-15.39.07:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.12.13-15.39.07:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.12.13-15.39.07:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.12.13-15.39.07:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.12.13-15.39.07:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.12.13-15.39.07:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.12.13-15.39.07:839][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2022.12.13-15.39.07:840][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.12.13-15.39.07:879][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.12.13-15.39.07:971][  0]LogSavePackage: Moving '../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Floor_400x40083875A9446EDCF91D08990B3BE2CFBFA.tmp' to '../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.12.13-15.39.07:972][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.12.13-15.39.07:974][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.13-15.39.07:974][  0]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.07:975][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.39.07:975][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.39.07:975][  0]MapCheck: New page: Revisión del mapa
+[2022.12.13-15.39.07:975][  0]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.07:978][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-15.39.07:980][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.13-15.39.08:079][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.12.13-15.39.08:081][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.12.13-15.39.08:110][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.12.13-15.39.08:110][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.12.13-15.39.08:114][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.13-15.39.08:119][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.13-15.39.08:119][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.13-15.39.08:119][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2022.12.13-15.39.08:119][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.146
+[2022.12.13-15.39.08:121][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.078
+[2022.12.13-15.39.08:242][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-15.39.08:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-15.39.08:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-15.39.08:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-15.39.08:277][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0066 seconds. Added 3822 classes and 928 folders.
+[2022.12.13-15.39.08:282][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.13-15.39.08:282][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.13-15.39.08:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.13-15.39.08:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.13-15.39.08:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.13-15.39.08:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.13-15.39.08:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.13-15.39.08:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.13-15.39.08:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.13-15.39.08:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.13-15.39.08:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.13-15.39.08:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.13-15.39.08:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.13-15.39.08:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.13-15.39.08:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.13-15.39.08:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.13-15.39.08:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.13-15.39.08:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.13-15.39.08:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.13-15.39.08:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.13-15.39.08:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.13-15.39.08:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.13-15.39.08:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.13-15.39.08:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.13-15.39.08:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:286][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.13-15.39.08:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.13-15.39.08:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.13-15.39.08:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.13-15.39.08:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.13-15.39.08:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.13-15.39.08:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.13-15.39.08:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.13-15.39.08:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.13-15.39.08:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.13-15.39.08:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.13-15.39.08:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.13-15.39.08:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.13-15.39.08:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.13-15.39.08:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.13-15.39.08:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.13-15.39.08:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.12.13-15.39.08:313][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.13-15.39.08:316][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.13-15.39.08:364][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-15.39.08:372][  0]LogSlate: Took 0.006509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.13-15.39.08:373][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-15.39.08:437][  0]LogRenderer: Reallocating scene render targets to support 1288x616 Format 10 NumSamples 1 (Frame:1).
+[2022.12.13-15.39.08:534][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.13-15.39.08:534][  0]LogLoad: (Engine Initialization) Total time: 7.49 seconds
+[2022.12.13-15.39.08:534][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.13-15.39.08:547][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.12.13-15.39.08:547][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.12.13-15.39.08:563][  0]LogAssetRegistry: Asset discovery search completed in 5.2011 seconds
+[2022.12.13-15.39.08:566][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.12.13-15.39.08:599][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.13-15.39.14:353][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.13-15.39.14:357][661]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.13-15.39.14:395][661]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.12.13-15.39.14:406][661]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.12.13-15.39.14:735][661]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2022.12.13-15.39.14:736][661]Cmd: MAP LOAD FILE="../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.13-15.39.14:736][661]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.14:736][661]LoadErrors: New page: Cargando mapa: Advanced_Lighting.umap
+[2022.12.13-15.39.14:773][661]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.39.14:774][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.39.14:774][661]MapCheck: New page: Revisión del mapa
+[2022.12.13-15.39.14:774][661]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.14:781][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-15.39.14:783][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.13-15.39.14:783][661]LogAudio: Display: Audio Device (ID: 1) registered with world 'Advanced_Lighting'.
+[2022.12.13-15.39.14:788][661]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.13-15.39.14:788][661]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2022.12.13-15.39.14:793][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.13-15.39.14:795][661]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.13-15.39.14:795][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2022.12.13-15.39.14:795][661]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.059
+[2022.12.13-15.39.16:659][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.39.16:680][873]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.12.13-15.39.16:682][873]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.12.13-15.39.16:686][873]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.12.13-15.39.16:686][873]Cmd: MAP LOAD FILE="../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.13-15.39.16:686][873]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.16:686][873]LoadErrors: New page: Cargando mapa: Minimal_Default.umap
+[2022.12.13-15.39.16:713][873]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.39.16:713][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.39.16:713][873]MapCheck: New page: Revisión del mapa
+[2022.12.13-15.39.16:713][873]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.16:716][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-15.39.16:717][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.13-15.39.16:718][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.12.13-15.39.16:719][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.13-15.39.16:719][873]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.12.13-15.39.16:722][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.13-15.39.16:723][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.13-15.39.16:723][873]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,062ms to complete.
+[2022.12.13-15.39.16:723][873]LogFileHelpers: Loading map 'Minimal_Default' took 0.038
+[2022.12.13-15.39.17:659][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.12.13-15.39.17:946][982]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.12.13-15.39.17:949][982]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.12.13-15.39.17:951][982]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.12.13-15.39.17:953][982]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.12.13-15.39.17:956][982]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.12.13-15.39.17:958][982]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.12.13-15.39.17:960][982]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.12.13-15.39.17:963][982]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.12.13-15.39.17:966][982]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.12.13-15.39.17:968][982]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.12.13-15.39.17:990][982]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.12.13-15.39.17:990][982]Cmd: MAP LOAD FILE="../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.13-15.39.17:990][982]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.17:990][982]LoadErrors: New page: Cargando mapa: StarterMap.umap
+[2022.12.13-15.39.18:015][982]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.39.18:015][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.39.18:015][982]MapCheck: New page: Revisión del mapa
+[2022.12.13-15.39.18:015][982]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.18:020][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-15.39.18:021][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.13-15.39.18:022][982]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2022.12.13-15.39.18:033][982]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.13-15.39.18:034][982]LogAIModule: Creating AISystem for world StarterMap
+[2022.12.13-15.39.18:043][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.12.13-15.39.18:044][982]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.13-15.39.18:044][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2022.12.13-15.39.18:044][982]LogFileHelpers: Loading map 'StarterMap' took 0.054
+[2022.12.13-15.39.21:962][392]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.12.13-15.39.21:965][392]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.12.13-15.39.21:983][392]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.12.13-15.39.23:731][593]LogSlate: Window 'Minimal_Default_BuiltData' being destroyed
+[2022.12.13-15.39.23:735][593]LogSlate: Window 'Minimal_Default_BuiltData' being destroyed
+[2022.12.13-15.39.26:172][881]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.12.13-15.39.26:179][881]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.12.13-15.39.26:179][881]LogObjectTools: Currently 2 active worlds: /Game/StarterContent/Maps/StarterMap.StarterMap, /Engine/Transient.World_0
+[2022.12.13-15.39.28:921][881]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.12.13-15.39.28:931][881]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.12.13-15.39.33:940][253]LogSlate: Window 'Nivel nuevo' being destroyed
+[2022.12.13-15.39.33:948][253]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.13-15.39.33:960][253]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.33:960][253]LoadErrors: New page: Cargando mapa: Template_Default.umap
+[2022.12.13-15.39.33:961][253]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.39.33:961][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.39.33:961][253]MapCheck: New page: Revisión del mapa
+[2022.12.13-15.39.33:961][253]LightingResults: New page: Diseñar la iluminación
+[2022.12.13-15.39.33:977][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-15.39.33:980][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.13-15.39.33:987][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.12.13-15.39.33:992][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.13-15.39.33:996][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.13-15.39.34:001][253]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.12.13-15.39.34:002][253]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.12.13-15.39.34:002][253]LogAIModule: Creating AISystem for world Untitled_1
+[2022.12.13-15.39.34:003][253]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.13-15.39.34:007][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.12.13-15.39.34:014][253]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.13-15.39.34:014][253]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2022.12.13-15.39.34:014][253]LogFileHelpers: Loading map 'Template_Default' took 0.066
+[2022.12.13-15.39.37:051][608]LogRenderer: Reallocating scene render targets to support 1288x620 Format 10 NumSamples 1 (Frame:349).
+[2022.12.13-15.39.37:073][609]LogRenderer: Reallocating scene render targets to support 1288x628 Format 10 NumSamples 1 (Frame:351).
+[2022.12.13-15.39.37:093][610]LogRenderer: Reallocating scene render targets to support 1288x640 Format 10 NumSamples 1 (Frame:353).
+[2022.12.13-15.39.37:109][611]LogRenderer: Reallocating scene render targets to support 1288x648 Format 10 NumSamples 1 (Frame:355).
+[2022.12.13-15.39.37:130][612]LogRenderer: Reallocating scene render targets to support 1288x656 Format 10 NumSamples 1 (Frame:357).
+[2022.12.13-15.39.37:151][613]LogRenderer: Reallocating scene render targets to support 1288x660 Format 10 NumSamples 1 (Frame:359).
+[2022.12.13-15.39.37:171][614]LogRenderer: Reallocating scene render targets to support 1288x672 Format 10 NumSamples 1 (Frame:361).
+[2022.12.13-15.39.37:188][615]LogRenderer: Reallocating scene render targets to support 1288x680 Format 10 NumSamples 1 (Frame:363).
+[2022.12.13-15.39.37:208][616]LogRenderer: Reallocating scene render targets to support 1288x684 Format 10 NumSamples 1 (Frame:365).
+[2022.12.13-15.39.37:224][617]LogRenderer: Reallocating scene render targets to support 1288x688 Format 10 NumSamples 1 (Frame:367).
+[2022.12.13-15.39.37:246][618]LogRenderer: Reallocating scene render targets to support 1288x692 Format 10 NumSamples 1 (Frame:369).
+[2022.12.13-15.39.37:267][619]LogRenderer: Reallocating scene render targets to support 1288x700 Format 10 NumSamples 1 (Frame:371).
+[2022.12.13-15.39.37:283][620]LogRenderer: Reallocating scene render targets to support 1288x704 Format 10 NumSamples 1 (Frame:373).
+[2022.12.13-15.39.37:304][621]LogRenderer: Reallocating scene render targets to support 1288x712 Format 10 NumSamples 1 (Frame:375).
+[2022.12.13-15.39.37:324][622]LogRenderer: Reallocating scene render targets to support 1288x716 Format 10 NumSamples 1 (Frame:377).
+[2022.12.13-15.39.37:342][623]LogRenderer: Reallocating scene render targets to support 1288x720 Format 10 NumSamples 1 (Frame:379).
+[2022.12.13-15.39.37:361][624]LogRenderer: Reallocating scene render targets to support 1288x728 Format 10 NumSamples 1 (Frame:381).
+[2022.12.13-15.39.37:377][625]LogRenderer: Reallocating scene render targets to support 1288x732 Format 10 NumSamples 1 (Frame:383).
+[2022.12.13-15.39.37:397][626]LogRenderer: Reallocating scene render targets to support 1288x736 Format 10 NumSamples 1 (Frame:385).
+[2022.12.13-15.39.37:416][627]LogRenderer: Reallocating scene render targets to support 1288x740 Format 10 NumSamples 1 (Frame:387).
+[2022.12.13-15.39.37:433][628]LogRenderer: Reallocating scene render targets to support 1288x744 Format 10 NumSamples 1 (Frame:389).
+[2022.12.13-15.39.42:913][275]LogRenderer: Reallocating scene render targets to support 1292x744 Format 10 NumSamples 1 (Frame:979).
+[2022.12.13-15.39.42:944][277]LogRenderer: Reallocating scene render targets to support 1296x744 Format 10 NumSamples 1 (Frame:983).
+[2022.12.13-15.39.42:976][279]LogRenderer: Reallocating scene render targets to support 1300x744 Format 10 NumSamples 1 (Frame:987).
+[2022.12.13-15.39.42:994][280]LogRenderer: Reallocating scene render targets to support 1304x744 Format 10 NumSamples 1 (Frame:989).
+[2022.12.13-15.39.43:015][281]LogRenderer: Reallocating scene render targets to support 1312x744 Format 10 NumSamples 1 (Frame:991).
+[2022.12.13-15.39.43:037][282]LogRenderer: Reallocating scene render targets to support 1316x744 Format 10 NumSamples 1 (Frame:993).
+[2022.12.13-15.39.43:058][283]LogRenderer: Reallocating scene render targets to support 1324x744 Format 10 NumSamples 1 (Frame:995).
+[2022.12.13-15.39.43:077][284]LogRenderer: Reallocating scene render targets to support 1328x744 Format 10 NumSamples 1 (Frame:997).
+[2022.12.13-15.39.43:100][285]LogRenderer: Reallocating scene render targets to support 1336x744 Format 10 NumSamples 1 (Frame:999).
+[2022.12.13-15.39.43:122][286]LogRenderer: Reallocating scene render targets to support 1340x744 Format 10 NumSamples 1 (Frame:1001).
+[2022.12.13-15.39.43:147][288]LogRenderer: Reallocating scene render targets to support 1344x744 Format 10 NumSamples 1 (Frame:1005).
+[2022.12.13-15.39.44:405][435]LogRenderer: Reallocating scene render targets to support 1632x744 Format 10 NumSamples 1 (Frame:1103).
+[2022.12.13-15.39.48:032][868]LogRenderer: Reallocating scene render targets to support 1632x748 Format 10 NumSamples 1 (Frame:1518).
+[2022.12.13-15.39.51:758][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.12.13-15.39.52:505][375]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.13-15.40.10:808][375]LogSlate: Window 'Guardar nivel como' being destroyed
+[2022.12.13-15.40.10:845][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.13-15.40.10:850][375]LogSavePackage: Moving '../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Test6002BB1449EAE591559AFEA235B55702.tmp' to '../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Test.umap'
+[2022.12.13-15.40.10:852][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Test_BuiltData" FILE="../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Test_BuiltData.uasset" SILENT=true
+[2022.12.13-15.40.10:861][375]LogSavePackage: Moving '../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Saved/Test_BuiltDataC07F65D64AD8AC764CF218A675823E1B.tmp' to '../../../../../../Users/jmigu/Desktop/PGV-UGR/TowerDefense/Content/StarterContent/Maps/Test_BuiltData.uasset'
+[2022.12.13-15.40.10:874][375]LogFileHelpers: Saving map 'Test' took 0.052
+[2022.12.13-15.40.10:876][375]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.13-15.40.10:876][375]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Test.Test
+[2022.12.13-15.40.10:876][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Test_BuiltData.Test_BuiltData
+[2022.12.13-15.40.14:519][776]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.12.13-15.40.14:521][776]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.12.13-15.40.14:523][776]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.12.13-15.40.14:526][776]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.12.13-15.40.14:528][776]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.12.13-15.40.14:530][776]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.12.13-15.40.14:532][776]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.12.13-15.40.14:536][776]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.12.13-15.40.14:538][776]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.12.13-15.40.14:541][776]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.12.13-15.40.14:550][776]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.12.13-15.40.14:550][776]LogObjectTools: Currently 2 active worlds: /Game/StarterContent/Maps/Test.Test, /Engine/Transient.World_0
+[2022.12.13-15.40.14:555][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.13-15.40.16:696][776]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.13-15.40.16:716][776]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.40.16:716][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.40.16:721][776]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.40.16:721][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.40.16:721][776]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.40.16:721][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.40.16:758][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.13-15.40.16:762][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.12.13-15.40.16:766][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.40.16:769][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.12.13-15.40.16:771][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.40.16:774][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.12.13-15.40.16:786][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.13-15.40.16:789][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.12.13-15.40.41:648][692]LogSlate: Window 'Plugins' being destroyed
+[2022.12.13-15.40.41:652][692]LogSlate: Window 'Plugins' being destroyed
+[2022.12.13-15.40.41:652][692]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.12.13-15.40.43:722][935]LogSlate: Took 0.003068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.13-15.40.53:870][127]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.12.13-15.41.38:981][324]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2022.12.13-15.41.38:987][324]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.12.13-15.41.41:761][631]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2022.12.13-15.41.41:764][631]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2022.12.13-15.42.05:723][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.13-15.42.07:596][433]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.13-15.42.07:624][433]LogUObjectGlobals: Force Deleting 36 Package(s):
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
+	Asset Name: /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05
+	Asset Name: /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01
+	Asset Name: /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+	Asset Name: /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue
+	Asset Name: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+	Asset Name: /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2022.12.13-15.42.09:119][433]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.12.13-15.42.15:004][433]LogSlate: Window 'Mensaje' being destroyed
+[2022.12.13-15.42.15:012][433]Message dialog closed, result: Cancel, title: Mensaje, text: SoundWave /Game/StarterContent/Audio/Light01.Light01 está en uso.
+
+---\
+Ejecutar el editor con '-NoLoadStartupPackages' puede ayudar si el objeto se carga al arrancar.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light01.Light01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light01_Cue.Light01_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.12.13-15.42.15:012][433]LogObjectTools: Warning: ForceDeleteObject failed to delete Light01, this package is now potentially corrupt
+[2022.12.13-15.42.16:796][433]LogSlate: Window 'Mensaje' being destroyed
+[2022.12.13-15.42.16:804][433]Message dialog closed, result: Cancel, title: Mensaje, text: SoundWave /Game/StarterContent/Audio/Light02.Light02 está en uso.
+
+---\
+Ejecutar el editor con '-NoLoadStartupPackages' puede ayudar si el objeto se carga al arrancar.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light02.Light02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light02_Cue.Light02_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.12.13-15.42.16:804][433]LogObjectTools: Warning: ForceDeleteObject failed to delete Light02, this package is now potentially corrupt
+[2022.12.13-15.42.17:456][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.13-15.42.17:461][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:464][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:468][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:471][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:475][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:478][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.13-15.42.17:481][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:484][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:487][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:490][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:494][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:496][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:500][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.12.13-15.42.17:502][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:505][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:508][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:511][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:514][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:518][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:521][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:524][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:527][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:530][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:533][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:536][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:539][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:542][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:545][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.13-15.42.17:548][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:551][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:554][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:557][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:560][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.12.13-15.42.17:563][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.13-15.42.17:566][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.12.13-15.42.17:576][433]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.13-15.42.17:618][433]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.043 s
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: 					from the file system manually: 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: /Game/StarterContent/Audio/Light01
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: /Game/StarterContent/Audio/Light02
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: Stack: 
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0f12daa8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0e9f55f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0e13b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0e420dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0e417e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fe7a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fe9280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fce421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd5e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd47097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd39b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb8c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:618][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb8e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb74410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffdb7b88161 USER32.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffdb7b87c21 USER32.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb8fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd6865a UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd06b09 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0e4b3e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0e9e8de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0472c618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffcf1262d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffcf1262f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffcf12523a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd04ff2173 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd04feb7f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0506b6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd04feea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fe7a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fe9280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fce421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd5e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd47097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd0fd39b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb8c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb8e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb74410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffdb7b88161 USER32.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffdb7b87c21 USER32.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffd6fb8fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ff7a0387621 UE4Editor.exe!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ff7a03a0fcc UE4Editor.exe!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ff7a03a10ba UE4Editor.exe!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ff7a03a40dd UE4Editor.exe!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ff7a03b5984 UE4Editor.exe!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ff7a03b853a UE4Editor.exe!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffdb7d3244d KERNEL32.DLL!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: [Callstack] 0x00007ffdb842dfb8 ntdll.dll!UnknownFunction []
+[2022.12.13-15.42.17:619][433]LogOutputDevice: Error: 
